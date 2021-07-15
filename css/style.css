@@ -1,0 +1,29 @@
+
+.header ,.hero ,.body,.bar,.footer, .top{
+	background-color: black;
+}
+.box{
+	min-height: 80px;
+	background-color: red;
+	margin-bottom: 10px;
+	color: white;
+	font-size: 30px; 
+}
+.topbox{
+	min-height: 20px;
+	background-color: blue;
+	margin-bottom: 6px;
+	color: white;
+	font-size: 15px;
+}
+.red{
+	background-color: lime;
+
+}
+.five{
+	background-color: blue;
+}h1{
+	min-height: auto;
+	background-color: green;
+}
+
